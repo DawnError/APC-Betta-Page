@@ -1,4 +1,3 @@
-<center>
 <h2>
     Contents:
 </h2>
@@ -34,4 +33,3 @@
         github profile!
     </a>
 </p>
-</center>
