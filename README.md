@@ -19,7 +19,7 @@
     </p>
     <p>
         <a href="https://dawnerror.github.io/APC-Betta-Blooket-Bookmarklets/">
-            BlooketBookmarklets
+            Blooket Bookmarklets
         </a>
     </p>
 <h2>
