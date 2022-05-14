@@ -1,6 +1,3 @@
-<h1>
-    APC-Betta
-</h1>
 <h2>
     Contents:
 </h2>
