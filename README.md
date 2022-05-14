@@ -17,6 +17,11 @@
     Suggestions
 </a>
     </p>
+    <p>
+        <a href="https://dawnerror.github.io/APC-Betta-Blooket-Bookmarklets/">
+            BlooketBookmarklets
+        </a>
+    </p>
 <h2>
     About APC Betta:
 </h2>
