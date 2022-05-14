@@ -1,15 +1,21 @@
 <h2>
     Contents:
 </h2>
+<p>
 <a href="https://dawnerror.github.io/APC-Betta-Bookmarklets/">
     Bookmarklets
 </a>
+    </p>
+    <p>
 <a href="https://dawnerror.github.io/APC-Betta-Update-Log/">
     Update Log
 </a>
+    </p>
+    <p>
 <a href="https://dawnerror.github.io/APC-Betta-Suggestions/">
     Suggestions
 </a>
+    </p>
 <h2>
     About APC Betta:
 </h2>
