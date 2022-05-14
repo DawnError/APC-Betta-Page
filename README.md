@@ -1,4 +1,3 @@
-# APC-Betta-Page
 <h1>
     APC-Betta
 </h1>
