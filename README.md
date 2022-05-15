@@ -1,3 +1,6 @@
+<title>
+    APC Betta
+</title>
 <center>
 <h2>
     Contents:
@@ -19,7 +22,7 @@
     </p>
     <p>
         <a href="https://dawnerror.github.io/APC-Betta-Blooket-Bookmarklets/">
-            Blooket Bookmarklets
+            BlooketBookmarklets
         </a>
     </p>
 <h2>
